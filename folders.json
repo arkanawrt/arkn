@@ -50,5 +50,11 @@
       "folderId": "FLD-0003",
       "tampilUtama": true
     }
+  },
+  "config": {
+    "showManual": true,
+    "showGithub": true,
+    "showDrive": false,
+    "showFolders": true
   }
 }
