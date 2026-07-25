@@ -4,11 +4,6 @@
       "id": "FLD-0002",
       "nama": "Kuy",
       "dibuat": "2026-07-25T12:32:23.496Z"
-    },
-    {
-      "id": "FLD-0003",
-      "nama": "Manual",
-      "dibuat": "2026-07-25T12:48:53.658Z"
     }
   ],
   "assignments": {
@@ -24,18 +19,6 @@
     "drive:1orP-xr8NNygShx5ehmOc1qWCYRSYKn6U": {
       "folderId": "FLD-0002",
       "tampilUtama": false
-    },
-    "manual:LOC-0001": {
-      "folderId": "FLD-0003",
-      "tampilUtama": false
-    },
-    "manual:LOC-0002": {
-      "folderId": "FLD-0003",
-      "tampilUtama": false
-    },
-    "manual:LOC-0003": {
-      "folderId": "FLD-0003",
-      "tampilUtama": true
     }
   },
   "config": {
