@@ -9,7 +9,7 @@
   "assignments": {
     "github:APP-HMA-OSS_Config_Siroha3[tele].json": {
       "folderId": "FLD-0001",
-      "tampilUtama": false
+      "tampilUtama": true
     }
   }
 }
