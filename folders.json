@@ -27,7 +27,7 @@
     },
     "manual:LOC-0001": {
       "folderId": "FLD-0002",
-      "tampilUtama": false
+      "tampilUtama": true
     }
   },
   "config": {
