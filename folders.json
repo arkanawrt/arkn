@@ -9,6 +9,18 @@
   "assignments": {
     "drive:1SRTdLFxupKaHfoRXgFv-B9sH_fOEGvYh": {
       "catatan": "Implementasikan, lalu kirim kode lengkapnya."
+    },
+    "github:APP-HMA-OSS_Config_Siroha3[tele].json": {
+      "folderId": "FLD-0001",
+      "tampilUtama": true
+    },
+    "github:APP-HMA-OSS_config_Siroha4.json": {
+      "folderId": "FLD-0001",
+      "tampilUtama": true
+    },
+    "github:APP-disclosure_milltina_universal_1755053065535.apk": {
+      "folderId": "FLD-0001",
+      "tampilUtama": true
     }
   },
   "config": {
