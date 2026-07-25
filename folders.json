@@ -55,6 +55,6 @@
     "showManual": true,
     "showGithub": true,
     "showDrive": true,
-    "showFolders": false
+    "showFolders": true
   }
 }
