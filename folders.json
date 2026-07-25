@@ -53,7 +53,7 @@
   },
   "config": {
     "showManual": true,
-    "showGithub": true,
+    "showGithub": false,
     "showDrive": false,
     "showFolders": true
   }
