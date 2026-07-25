@@ -4,11 +4,5 @@
     "drive:1SRTdLFxupKaHfoRXgFv-B9sH_fOEGvYh": {
       "catatan": "Implementasikan, lalu kirim kode lengkapnya."
     }
-  },
-  "config": {
-    "showManual": false,
-    "showGithub": false,
-    "showDrive": true,
-    "showFolders": false
   }
 }
