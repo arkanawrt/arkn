@@ -6,5 +6,10 @@
       "dibuat": "2026-07-25T12:23:51.192Z"
     }
   ],
-  "assignments": {}
+  "assignments": {
+    "github:APP-HMA-OSS_Config_Siroha3[tele].json": {
+      "folderId": "FLD-0001",
+      "tampilUtama": true
+    }
+  }
 }
