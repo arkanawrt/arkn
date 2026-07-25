@@ -32,7 +32,7 @@
   },
   "config": {
     "showManual": true,
-    "showGithub": false,
+    "showGithub": true,
     "showDrive": false,
     "showFolders": false
   }
