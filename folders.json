@@ -19,6 +19,18 @@
     "github:APP-HMA-OSS_config_Siroha4.json": {
       "folderId": "FLD-0001",
       "tampilUtama": false
+    },
+    "drive:1SRTdLFxupKaHfoRXgFv-B9sH_fOEGvYh": {
+      "folderId": "FLD-0002",
+      "tampilUtama": true
+    },
+    "drive:1DT16zKnO1s9QfCf9djQmNmqwYTqpuh3n": {
+      "folderId": "FLD-0002",
+      "tampilUtama": true
+    },
+    "drive:1orP-xr8NNygShx5ehmOc1qWCYRSYKn6U": {
+      "folderId": "FLD-0002",
+      "tampilUtama": false
     }
   }
 }
