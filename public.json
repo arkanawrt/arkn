@@ -1,12 +1,18 @@
 {
-  "generatedAt": "2026-07-25T14:14:53.756Z",
+  "generatedAt": "2026-07-25T14:16:06.017Z",
   "config": {
     "showManual": false,
     "showGithub": false,
     "showDrive": true,
     "showFolders": true
   },
-  "folders": [],
+  "folders": [
+    {
+      "id": "FLD-0001",
+      "nama": "ANTI-ROOT INTEGRITY",
+      "dibuat": "2026-07-25T14:16:03.884Z"
+    }
+  ],
   "items": [
     {
       "type": "manual",
