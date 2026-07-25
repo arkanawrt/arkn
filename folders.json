@@ -52,7 +52,7 @@
     }
   },
   "config": {
-    "showManual": true,
+    "showManual": false,
     "showGithub": true,
     "showDrive": true,
     "showFolders": true
