@@ -24,5 +24,14 @@
     "folder": "Sjjs",
     "modeUtama": "tetap",
     "ditambahkan": "2026-07-25T12:14:52.138Z"
+  },
+  {
+    "id": "LOC-0004",
+    "nama": "Apkpure",
+    "kategori": "JSON",
+    "url": "http://192.168.1.1/index_app_update.html",
+    "sandi": "",
+    "catatan": "",
+    "ditambahkan": "2026-07-25T13:47:38.612Z"
   }
 ]
