@@ -24,7 +24,7 @@
   "config": {
     "showManual": true,
     "showGithub": false,
-    "showDrive": true,
+    "showDrive": false,
     "showFolders": true
   }
 }
