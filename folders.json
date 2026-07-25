@@ -1,11 +1,6 @@
 {
   "folders": [
     {
-      "id": "FLD-0001",
-      "nama": "Sa",
-      "dibuat": "2026-07-25T12:23:51.192Z"
-    },
-    {
       "id": "FLD-0002",
       "nama": "Kuy",
       "dibuat": "2026-07-25T12:32:23.496Z"
@@ -17,14 +12,6 @@
     }
   ],
   "assignments": {
-    "github:APP-HMA-OSS_Config_Siroha3[tele].json": {
-      "folderId": "FLD-0001",
-      "tampilUtama": true
-    },
-    "github:APP-HMA-OSS_config_Siroha4.json": {
-      "folderId": "FLD-0001",
-      "tampilUtama": false
-    },
     "drive:1SRTdLFxupKaHfoRXgFv-B9sH_fOEGvYh": {
       "folderId": "FLD-0002",
       "tampilUtama": true,
