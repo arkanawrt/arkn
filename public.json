@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T14:14:42.359Z",
+  "generatedAt": "2026-07-25T14:14:48.313Z",
   "config": {
     "showManual": false,
     "showGithub": false,
@@ -45,20 +45,6 @@
       "telegram": null,
       "sizeKB": null,
       "tanggal": "2026-07-25T12:14:52.138Z",
-      "url": "http://192.168.1.1/index_app_update.html",
-      "catatan": "",
-      "folderId": null,
-      "tampilUtama": true
-    },
-    {
-      "type": "manual",
-      "key": "manual:LOC-0004",
-      "nama": "Apkpure",
-      "kategori": "JSON",
-      "sandi": null,
-      "telegram": null,
-      "sizeKB": null,
-      "tanggal": "2026-07-25T13:47:38.612Z",
       "url": "http://192.168.1.1/index_app_update.html",
       "catatan": "",
       "folderId": null,
