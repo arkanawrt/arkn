@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T14:16:06.017Z",
+  "generatedAt": "2026-07-25T14:16:41.548Z",
   "config": {
     "showManual": false,
     "showGithub": false,
@@ -67,7 +67,7 @@
       "tanggal": null,
       "url": "https://raw.githubusercontent.com/arkanawrt/arkn/main/APP-HMA-OSS_Config_Siroha3%5Btele%5D.json",
       "catatan": "",
-      "folderId": null,
+      "folderId": "FLD-0001",
       "tampilUtama": true
     },
     {
@@ -81,7 +81,7 @@
       "tanggal": null,
       "url": "https://raw.githubusercontent.com/arkanawrt/arkn/main/APP-HMA-OSS_config_Siroha4.json",
       "catatan": "",
-      "folderId": null,
+      "folderId": "FLD-0001",
       "tampilUtama": true
     },
     {
@@ -95,7 +95,7 @@
       "tanggal": null,
       "url": "https://raw.githubusercontent.com/arkanawrt/arkn/main/APP-disclosure_milltina_universal_1755053065535.apk",
       "catatan": "",
-      "folderId": null,
+      "folderId": "FLD-0001",
       "tampilUtama": true
     },
     {
