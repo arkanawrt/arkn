@@ -13,7 +13,7 @@
     },
     "github:APP-HMA-OSS_config_Siroha4.json": {
       "folderId": "FLD-0001",
-      "tampilUtama": true
+      "tampilUtama": false
     }
   }
 }
