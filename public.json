@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T14:18:34.340Z",
+  "generatedAt": "2026-07-25T14:26:04.852Z",
   "config": {
     "showManual": false,
     "showGithub": false,
@@ -25,7 +25,7 @@
       "tanggal": "2026-07-25T09:22:50.502Z",
       "url": "http://192.168.1.1/index_app_update.html",
       "catatan": "",
-      "folderId": null,
+      "folderId": "FLD-0001",
       "tampilUtama": true
     },
     {
@@ -39,7 +39,7 @@
       "tanggal": "2026-07-25T09:39:39.792Z",
       "url": "http://192.168.1.1/index_app_update.html",
       "catatan": "",
-      "folderId": null,
+      "folderId": "FLD-0001",
       "tampilUtama": true
     },
     {
@@ -53,7 +53,7 @@
       "tanggal": "2026-07-25T12:14:52.138Z",
       "url": "http://192.168.1.1/index_app_update.html",
       "catatan": "",
-      "folderId": null,
+      "folderId": "FLD-0001",
       "tampilUtama": true
     },
     {
@@ -109,7 +109,7 @@
       "tanggal": null,
       "url": "https://raw.githubusercontent.com/arkanawrt/arkn/main/public.json",
       "catatan": "",
-      "folderId": null,
+      "folderId": "FLD-0001",
       "tampilUtama": true
     },
     {
@@ -123,7 +123,7 @@
       "tanggal": "2026-07-25T09:00:26.577Z",
       "url": "https://drive.google.com/uc?export=download&id=1SRTdLFxupKaHfoRXgFv-B9sH_fOEGvYh",
       "catatan": "Implementasikan, lalu kirim kode lengkapnya.",
-      "folderId": null,
+      "folderId": "FLD-0001",
       "tampilUtama": true
     },
     {
@@ -137,7 +137,7 @@
       "tanggal": "2026-07-25T09:00:10.194Z",
       "url": "https://drive.google.com/uc?export=download&id=1DT16zKnO1s9QfCf9djQmNmqwYTqpuh3n",
       "catatan": "",
-      "folderId": null,
+      "folderId": "FLD-0001",
       "tampilUtama": true
     },
     {
@@ -151,7 +151,7 @@
       "tanggal": "2026-07-25T08:52:42.013Z",
       "url": "https://drive.google.com/uc?export=download&id=1orP-xr8NNygShx5ehmOc1qWCYRSYKn6U",
       "catatan": "",
-      "folderId": null,
+      "folderId": "FLD-0001",
       "tampilUtama": true
     }
   ]
