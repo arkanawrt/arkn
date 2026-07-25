@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T14:14:33.173Z",
+  "generatedAt": "2026-07-25T14:14:41.448Z",
   "config": {
     "showManual": false,
     "showGithub": false,
@@ -102,6 +102,20 @@
       "sizeKB": "10581.6",
       "tanggal": null,
       "url": "https://raw.githubusercontent.com/arkanawrt/arkn/main/APP-disclosure_milltina_universal_1755053065535.apk",
+      "catatan": "",
+      "folderId": null,
+      "tampilUtama": true
+    },
+    {
+      "type": "github",
+      "key": "github:public.json",
+      "nama": "public.json",
+      "kategori": null,
+      "sandi": null,
+      "telegram": null,
+      "sizeKB": "4.3",
+      "tanggal": null,
+      "url": "https://raw.githubusercontent.com/arkanawrt/arkn/main/public.json",
       "catatan": "",
       "folderId": null,
       "tampilUtama": true
