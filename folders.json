@@ -34,6 +34,6 @@
     "showManual": true,
     "showGithub": true,
     "showDrive": false,
-    "showFolders": false
+    "showFolders": true
   }
 }
