@@ -24,6 +24,10 @@
     "drive:1orP-xr8NNygShx5ehmOc1qWCYRSYKn6U": {
       "folderId": "FLD-0001",
       "tampilUtama": true
+    },
+    "manual:LOC-0001": {
+      "folderId": "FLD-0002",
+      "tampilUtama": false
     }
   },
   "config": {
