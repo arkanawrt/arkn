@@ -8,7 +8,7 @@
   "config": {
     "showManual": true,
     "showGithub": true,
-    "showDrive": true,
+    "showDrive": false,
     "showFolders": false
   }
 }
