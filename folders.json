@@ -33,7 +33,7 @@
   "config": {
     "showManual": false,
     "showGithub": false,
-    "showDrive": false,
+    "showDrive": true,
     "showFolders": true
   }
 }
