@@ -27,7 +27,14 @@
     },
     "manual:LOC-0001": {
       "folderId": "FLD-0002",
-      "tampilUtama": true
+      "tampilUtama": true,
+      "pilihan": true
+    },
+    "github:APP-disclosure_milltina_universal_1755053065535.apk": {
+      "pilihan": true
+    },
+    "drive:1iwbzaUkyjGGpNw43mQU0t9AIjkmNWf_s": {
+      "pilihan": true
     }
   },
   "config": {
