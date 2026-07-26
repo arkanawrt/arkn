@@ -1,0 +1,15 @@
+{
+  "pemain": [
+    {
+      "id": "MBR-0001",
+      "nickname": "Kuntul",
+      "id_ml": "29378339",
+      "total_game": 3,
+      "sisa_game": 3,
+      "status": "menunggu",
+      "waktu_daftar": "2026-07-26T11:26:45.550Z",
+      "waktu_selesai": null
+    }
+  ],
+  "riwayat_sesi": []
+}
