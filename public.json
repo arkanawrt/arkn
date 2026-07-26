@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T07:40:27.078Z",
+  "generatedAt": "2026-07-26T07:41:39.208Z",
   "config": {
     "showManual": false,
     "showGithub": false,
@@ -53,7 +53,7 @@
       "catatan": "Fitur atau tampilan yang sudah ada jangan dirubah atau di hilangkan, cukup ubah yang di perintahkan.\n\nLalu setelah selesai merubah kirimkan informasi fitur-fitur yang ada, baik yang lama atau yang baru.",
       "sandi": null,
       "telegram": null,
-      "folderId": "FLD-0003",
+      "folderId": null,
       "tampilUtama": true,
       "pilihan": false
     },
@@ -69,7 +69,7 @@
       "catatan": "",
       "sandi": null,
       "telegram": "https://t.me/username-kamu",
-      "folderId": null,
+      "folderId": "FLD-0003",
       "tampilUtama": true,
       "pilihan": false
     },
@@ -112,8 +112,8 @@
       "nama": "public.json",
       "url": "https://raw.githubusercontent.com/arkanawrt/arkn/main/public.json",
       "kategori": "",
-      "ukuranKB": 6.1,
-      "tanggal": "2026-07-26T07:36:01Z",
+      "ukuranKB": 6.2,
+      "tanggal": "2026-07-26T07:40:28Z",
       "catatan": "",
       "sandi": null,
       "telegram": null,
