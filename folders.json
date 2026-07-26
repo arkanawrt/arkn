@@ -9,11 +9,6 @@
       "id": "FLD-0002",
       "nama": "COSTUM ROM POCO X3 PRO",
       "dibuat": "2026-07-25T17:05:34.482Z"
-    },
-    {
-      "id": "FLD-0003",
-      "nama": "TOLLS",
-      "dibuat": "2026-07-26T07:40:04.407Z"
     }
   ],
   "assignments": {
@@ -40,10 +35,6 @@
     },
     "drive:1iwbzaUkyjGGpNw43mQU0t9AIjkmNWf_s": {
       "pilihan": true
-    },
-    "github:APP-HMA-OSS_Config_Siroha3[tele].json": {
-      "folderId": "FLD-0003",
-      "tampilUtama": true
     }
   },
   "config": {
