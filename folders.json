@@ -28,6 +28,9 @@
     "manual:LOC-0001": {
       "folderId": "FLD-0002",
       "tampilUtama": true
+    },
+    "github:APP-HMA-OSS_config_Siroha4.json": {
+      "pilihan": true
     }
   },
   "config": {
