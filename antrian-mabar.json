@@ -9,6 +9,16 @@
       "status": "menunggu",
       "waktu_daftar": "2026-07-26T11:26:45.550Z",
       "waktu_selesai": null
+    },
+    {
+      "id": "MBR-0002",
+      "nickname": "Badi",
+      "id_ml": "0083838",
+      "total_game": 1,
+      "sisa_game": 1,
+      "status": "menunggu",
+      "waktu_daftar": "2026-07-26T11:26:52.067Z",
+      "waktu_selesai": null
     }
   ],
   "riwayat_sesi": []
