@@ -29,6 +29,16 @@
       "status": "menunggu",
       "waktu_daftar": "2026-07-26T11:26:59.700Z",
       "waktu_selesai": null
+    },
+    {
+      "id": "MBR-0004",
+      "nickname": "Dekter",
+      "id_ml": "2838399",
+      "total_game": 2,
+      "sisa_game": 2,
+      "status": "menunggu",
+      "waktu_daftar": "2026-07-26T11:27:06.561Z",
+      "waktu_selesai": null
     }
   ],
   "riwayat_sesi": []
