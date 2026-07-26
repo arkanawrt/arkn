@@ -59,6 +59,16 @@
       "status": "menunggu",
       "waktu_daftar": "2026-07-26T11:27:13.382Z",
       "waktu_selesai": null
+    },
+    {
+      "id": "MBR-0007",
+      "nickname": "Aya",
+      "id_ml": "19373939",
+      "total_game": 4,
+      "sisa_game": 4,
+      "status": "menunggu",
+      "waktu_daftar": "2026-07-26T11:48:47.361Z",
+      "waktu_selesai": null
     }
   ],
   "riwayat_sesi": [
