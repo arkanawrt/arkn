@@ -25,7 +25,7 @@
       "nickname": "Mancuyyy",
       "id_ml": "0273838",
       "total_game": 6,
-      "sisa_game": 3,
+      "sisa_game": 2,
       "status": "menunggu",
       "waktu_daftar": "2026-07-26T11:26:59.700Z",
       "waktu_selesai": null
@@ -55,7 +55,7 @@
       "nickname": "Bian",
       "id_ml": "20738383",
       "total_game": 5,
-      "sisa_game": 3,
+      "sisa_game": 2,
       "status": "menunggu",
       "waktu_daftar": "2026-07-26T11:27:13.382Z",
       "waktu_selesai": null
@@ -65,7 +65,7 @@
       "nickname": "Aya",
       "id_ml": "19373939",
       "total_game": 4,
-      "sisa_game": 4,
+      "sisa_game": 3,
       "status": "menunggu",
       "waktu_daftar": "2026-07-26T11:48:47.361Z",
       "waktu_selesai": null
@@ -75,7 +75,7 @@
       "nickname": "Dont touch me",
       "id_ml": "3947399",
       "total_game": 4,
-      "sisa_game": 4,
+      "sisa_game": 3,
       "status": "menunggu",
       "waktu_daftar": "2026-07-26T11:48:56.372Z",
       "waktu_selesai": null
@@ -164,6 +164,31 @@
           "id": "MBR-0005",
           "nickname": "Aryana",
           "id_ml": "0273838"
+        }
+      ]
+    },
+    {
+      "waktu": "2026-07-26T11:49:26.673Z",
+      "peserta": [
+        {
+          "id": "MBR-0003",
+          "nickname": "Mancuyyy",
+          "id_ml": "0273838"
+        },
+        {
+          "id": "MBR-0006",
+          "nickname": "Bian",
+          "id_ml": "20738383"
+        },
+        {
+          "id": "MBR-0007",
+          "nickname": "Aya",
+          "id_ml": "19373939"
+        },
+        {
+          "id": "MBR-0008",
+          "nickname": "Dont touch me",
+          "id_ml": "3947399"
         }
       ]
     }
