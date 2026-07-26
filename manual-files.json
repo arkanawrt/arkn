@@ -6,5 +6,15 @@
     "url": "http://192.168.1.1/index_app_update.html",
     "sandi": "",
     "ditambahkan": "2026-07-25T09:22:50.502Z"
+  },
+  {
+    "id": "LOC-0002",
+    "nama": "Fitur AI",
+    "kategori": "Tutorial",
+    "url": "http://192.168.1.1/index_app_update.html",
+    "sandi": "",
+    "catatan": "Fitur atau tampilan yang sudah ada jangan dirubah atau di hilangkan, cukup ubah yang di perintahkan.\n\nLalu setelah selesai merubah kirimkan informasi fitur-fitur yang ada, baik yang lama atau yang baru.",
+    "tipe": "link",
+    "ditambahkan": "2026-07-26T07:11:03.414Z"
   }
 ]
