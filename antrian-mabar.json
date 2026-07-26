@@ -79,6 +79,16 @@
       "status": "menunggu",
       "waktu_daftar": "2026-07-26T11:48:56.372Z",
       "waktu_selesai": null
+    },
+    {
+      "id": "MBR-0009",
+      "nickname": "Nikname mlll",
+      "id_ml": "18388338",
+      "total_game": 4,
+      "sisa_game": 4,
+      "status": "menunggu",
+      "waktu_daftar": "2026-07-26T11:49:06.704Z",
+      "waktu_selesai": null
     }
   ],
   "riwayat_sesi": [
