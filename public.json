@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T07:36:00.713Z",
+  "generatedAt": "2026-07-26T07:40:27.078Z",
   "config": {
     "showManual": false,
     "showGithub": false,
@@ -17,6 +17,11 @@
       "id": "FLD-0002",
       "nama": "COSTUM ROM POCO X3 PRO",
       "dibuat": "2026-07-25T17:05:34.482Z"
+    },
+    {
+      "id": "FLD-0003",
+      "nama": "TOLLS",
+      "dibuat": "2026-07-26T07:40:04.407Z"
     }
   ],
   "items": [
@@ -48,7 +53,7 @@
       "catatan": "Fitur atau tampilan yang sudah ada jangan dirubah atau di hilangkan, cukup ubah yang di perintahkan.\n\nLalu setelah selesai merubah kirimkan informasi fitur-fitur yang ada, baik yang lama atau yang baru.",
       "sandi": null,
       "telegram": null,
-      "folderId": null,
+      "folderId": "FLD-0003",
       "tampilUtama": true,
       "pilihan": false
     },
@@ -107,8 +112,8 @@
       "nama": "public.json",
       "url": "https://raw.githubusercontent.com/arkanawrt/arkn/main/public.json",
       "kategori": "",
-      "ukuranKB": 4.5,
-      "tanggal": "2026-07-25T14:26:06Z",
+      "ukuranKB": 6.1,
+      "tanggal": "2026-07-26T07:36:01Z",
       "catatan": "",
       "sandi": null,
       "telegram": null,
