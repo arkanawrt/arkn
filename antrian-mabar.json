@@ -99,6 +99,16 @@
       "status": "menunggu",
       "waktu_daftar": "2026-07-26T11:49:51.755Z",
       "waktu_selesai": null
+    },
+    {
+      "id": "MBR-0011",
+      "nickname": "Ban",
+      "id_ml": "284748",
+      "total_game": 3,
+      "sisa_game": 3,
+      "status": "menunggu",
+      "waktu_daftar": "2026-07-26T11:50:00.761Z",
+      "waktu_selesai": null
     }
   ],
   "riwayat_sesi": [
