@@ -49,6 +49,16 @@
       "status": "menunggu",
       "waktu_daftar": "2026-07-26T11:27:13.382Z",
       "waktu_selesai": null
+    },
+    {
+      "id": "MBR-0006",
+      "nickname": "Bian",
+      "id_ml": "20738383",
+      "total_game": 5,
+      "sisa_game": 5,
+      "status": "menunggu",
+      "waktu_daftar": "2026-07-26T11:27:19.559Z",
+      "waktu_selesai": null
     }
   ],
   "riwayat_sesi": []
