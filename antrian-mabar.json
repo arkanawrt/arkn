@@ -39,6 +39,16 @@
       "status": "menunggu",
       "waktu_daftar": "2026-07-26T11:27:06.561Z",
       "waktu_selesai": null
+    },
+    {
+      "id": "MBR-0005",
+      "nickname": "Aryana",
+      "id_ml": "0273838",
+      "total_game": 1,
+      "sisa_game": 1,
+      "status": "menunggu",
+      "waktu_daftar": "2026-07-26T11:27:13.382Z",
+      "waktu_selesai": null
     }
   ],
   "riwayat_sesi": []
