@@ -5,10 +5,10 @@
       "nickname": "Kuntul",
       "id_ml": "29378339",
       "total_game": 3,
-      "sisa_game": 1,
-      "status": "menunggu",
+      "sisa_game": 0,
+      "status": "selesai",
       "waktu_daftar": "2026-07-26T11:26:45.550Z",
-      "waktu_selesai": null
+      "waktu_selesai": "2026-07-26T11:47:58.846Z"
     },
     {
       "id": "MBR-0002",
@@ -25,7 +25,7 @@
       "nickname": "Mancuyyy",
       "id_ml": "0273838",
       "total_game": 6,
-      "sisa_game": 4,
+      "sisa_game": 3,
       "status": "menunggu",
       "waktu_daftar": "2026-07-26T11:26:59.700Z",
       "waktu_selesai": null
@@ -45,17 +45,17 @@
       "nickname": "Aryana",
       "id_ml": "0273838",
       "total_game": 1,
-      "sisa_game": 1,
-      "status": "menunggu",
+      "sisa_game": 0,
+      "status": "selesai",
       "waktu_daftar": "2026-07-26T11:27:19.559Z",
-      "waktu_selesai": null
+      "waktu_selesai": "2026-07-26T11:47:58.846Z"
     },
     {
       "id": "MBR-0006",
       "nickname": "Bian",
       "id_ml": "20738383",
       "total_game": 5,
-      "sisa_game": 4,
+      "sisa_game": 3,
       "status": "menunggu",
       "waktu_daftar": "2026-07-26T11:27:13.382Z",
       "waktu_selesai": null
@@ -109,6 +109,31 @@
           "id": "MBR-0006",
           "nickname": "Bian",
           "id_ml": "20738383"
+        }
+      ]
+    },
+    {
+      "waktu": "2026-07-26T11:47:58.846Z",
+      "peserta": [
+        {
+          "id": "MBR-0001",
+          "nickname": "Kuntul",
+          "id_ml": "29378339"
+        },
+        {
+          "id": "MBR-0003",
+          "nickname": "Mancuyyy",
+          "id_ml": "0273838"
+        },
+        {
+          "id": "MBR-0006",
+          "nickname": "Bian",
+          "id_ml": "20738383"
+        },
+        {
+          "id": "MBR-0005",
+          "nickname": "Aryana",
+          "id_ml": "0273838"
         }
       ]
     }
