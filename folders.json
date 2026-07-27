@@ -40,7 +40,7 @@
   "config": {
     "showManual": false,
     "showGithub": false,
-    "showDrive": true,
+    "showDrive": false,
     "showFolders": true,
     "showPilihan": false
   }
