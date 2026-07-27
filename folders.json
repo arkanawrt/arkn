@@ -42,6 +42,6 @@
     "showGithub": false,
     "showDrive": false,
     "showFolders": true,
-    "showPilihan": false
+    "showPilihan": true
   }
 }
